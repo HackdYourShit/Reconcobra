@@ -27,7 +27,6 @@ use HTTP::Request;
 use utf8;
 use open qw(:std :utf8);
 use HTML::TokeParser;
-use WWW::Mechanize;
 use Data::Dumper;
 use HTTP::Response;
 use HTTP::Headers;
